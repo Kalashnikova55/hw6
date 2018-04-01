@@ -17,3 +17,6 @@
 
 
 Часть 2
+
+1
+![](https://github.com/Kalashnikova55/hw6/blob/master/Question2.jpg)
