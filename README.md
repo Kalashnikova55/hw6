@@ -9,3 +9,4 @@
 
 3
 Поисковый запрос:movie:eng_us_2012,movie:eng_gb_2012,film:eng_us_2012,film:eng_gb_2012
+![](https://github.com/Kalashnikova55/hw6/blob/master/movie2.png)
