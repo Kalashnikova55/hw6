@@ -24,5 +24,7 @@
 2
 ![](https://github.com/Kalashnikova55/hw6/blob/master/Stay-remain2.jpg)
 Оба глагола могут употребляться с: calm, day, faithful, friend, today.
+
 Только stay употребляется с: put, proceeding, while, weekend.
+
 Только remain употребляется с: issue, problem, part, fondant, seat.
