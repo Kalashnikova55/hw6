@@ -20,3 +20,6 @@
 
 1
 ![](https://github.com/Kalashnikova55/hw6/blob/master/Question2.jpg)
+
+2
+![](https://github.com/Kalashnikova55/hw6/blob/master/Stay-remain2.jpg)
